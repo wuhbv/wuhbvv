@@ -6,10 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuhbv/wuhbvv.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "exceljs": "^4.4.0"
+    "exceljs": "^4.4.0",
+    "wuhbv": "^1.0.1"
   }
 }
